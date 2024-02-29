@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @riyazzu
 - 👀 I’m interested in ...
 - 🌱 learning css, java, JSP, spring
+- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=9048jj)]((https://velog.io/9048jj/velog-readme-stats))
 
 <!---
 riyazzu/riyazzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
