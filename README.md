@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Do%20it!&fontSize=40&height=300&color=random&fontColor=BBDFEB)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Do%20it!&fontSize=90&height=300&color=random&fontColor=BBDFEB&stroke=000000&strokeWidth=3)
+
 
 - 👋 Hi, I’m @riyazzu
 - 👀 I’m interested in ...
